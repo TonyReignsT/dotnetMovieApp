@@ -47,3 +47,7 @@ button.accept-policy[b-0uvum7rpp4] {
   white-space: nowrap;
   line-height: 60px;
 }
+
+input[b-0uvum7rpp4], select[b-0uvum7rpp4], textarea[b-0uvum7rpp4] {
+    padding: 8px 12px;
+}

@@ -21,7 +21,7 @@ namespace MvcMovie.Controllers
 
         // GET: Movies
       // GET: Movies
-        public async Task<IActionResult> Index(string movieGenre, string searchString)
+        public async Task<IActionResult> Index(string movieGenre, string searchString, int? minYear)
         {
             if (_context.Movie == null)
             {
@@ -34,6 +34,12 @@ namespace MvcMovie.Controllers
                                             select m.Genre;
             var movies = from m in _context.Movie
                          select m;
+
+            // Filter by year
+            if (minYear.HasValue)
+            {
+                movies = movies.Where(m => m.ReleaseDate.Year >= minYear.Value);
+            }
 
             if (!string.IsNullOrEmpty(searchString))
             {

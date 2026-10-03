@@ -83,8 +83,6 @@ C:\Users\user\Desktop\dotnetMVC\MvcMovie\obj\Debug\net10.0\compressed\xp3h2q5eyi
 C:\Users\user\Desktop\dotnetMVC\MvcMovie\obj\Debug\net10.0\compressed\7tpgvl3x37-{0}-muycvpuwrr-muycvpuwrr.gz
 C:\Users\user\Desktop\dotnetMVC\MvcMovie\obj\Debug\net10.0\compressed\kk6x8kwsgs-{0}-87fc7y1x7t-87fc7y1x7t.gz
 C:\Users\user\Desktop\dotnetMVC\MvcMovie\obj\Debug\net10.0\compressed\u23ny76nnj-{0}-mlv21k5csn-mlv21k5csn.gz
-C:\Users\user\Desktop\dotnetMVC\MvcMovie\obj\Debug\net10.0\compressed\1kt5hl28no-{0}-srdz53kpfw-srdz53kpfw.gz
-C:\Users\user\Desktop\dotnetMVC\MvcMovie\obj\Debug\net10.0\compressed\xzd9bq0s9u-{0}-srdz53kpfw-srdz53kpfw.gz
 C:\Users\user\Desktop\dotnetMVC\MvcMovie\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\user\Desktop\dotnetMVC\MvcMovie\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\user\Desktop\dotnetMVC\MvcMovie\obj\Debug\net10.0\staticwebassets.development.json
@@ -370,3 +368,6 @@ C:\Users\user\Desktop\dotnetMVC\MvcMovie\bin\Debug\net10.0\runtimes\win-x64\nati
 C:\Users\user\Desktop\dotnetMVC\MvcMovie\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\user\Desktop\dotnetMVC\MvcMovie\obj\Debug\net10.0\MvcMovie.csproj.AssemblyReference.cache
 C:\Users\user\Desktop\dotnetMVC\MvcMovie\obj\Debug\net10.0\MvcMovie.csproj.Up2Date
+C:\Users\user\Desktop\dotnetMVC\MvcMovie\obj\Debug\net10.0\MvcMovie.sourcelink.json
+C:\Users\user\Desktop\dotnetMVC\MvcMovie\obj\Debug\net10.0\compressed\1kt5hl28no-{0}-ygsou9me8t-ygsou9me8t.gz
+C:\Users\user\Desktop\dotnetMVC\MvcMovie\obj\Debug\net10.0\compressed\xzd9bq0s9u-{0}-ygsou9me8t-ygsou9me8t.gz

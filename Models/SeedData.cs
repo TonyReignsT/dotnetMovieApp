@@ -51,6 +51,30 @@ public static class SeedData
                     Genre = "Western",
                     Rating = "R",
                     Price = 3.99M
+                },
+                new Movie
+                {
+                    Title = "The Black Panther",
+                    ReleaseDate = DateTime.Parse("2018-2-16"),
+                    Genre = "Sci-fi",
+                    Rating = "R",
+                    Price = 8.90M
+                },
+                 new Movie
+                 {
+                     Title = "From",
+                     ReleaseDate = DateTime.Parse("2022-2-20"),
+                     Genre = "Horror",
+                     Rating = "R",
+                     Price = 4.30M
+                 },
+                 new Movie
+                {
+                    Title = "The Originals",
+                    ReleaseDate = DateTime.Parse("2013-4-25"),
+                    Genre = "Supernatural Drama",
+                    Rating = "R",
+                    Price = 7.50M
                 }
             );
             context.SaveChanges();
